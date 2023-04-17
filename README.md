@@ -1,1 +1,5 @@
-# GameDev-Homework-4.b-Frog
+# Homework - Jumper Frog
+
+### How To Play
+
+### Goal
