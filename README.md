@@ -1,5 +1,7 @@
 # Homework - Jumper Frog
 
+---
+
 ### How To Play
 You can move the player with the arrow keys.
 
